@@ -1,0 +1,1 @@
+Zusammenfassung und Notizen basierend auf "IT-Handbuch für Fachinformatiker:innen" aus dem Rheinwek Verlag.
