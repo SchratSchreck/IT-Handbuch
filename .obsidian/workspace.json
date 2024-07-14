@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -149,8 +150,8 @@
   },
   "active": "3323512f05b7f1e2",
   "lastOpenFiles": [
-    "Read Me.md",
     "1. Intoduction.md",
+    "Read Me.md",
     "Untitled"
   ]
 }
