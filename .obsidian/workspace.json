@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3323512f05b7f1e2",
+  "active": "6718cd72a2c9b52e",
   "lastOpenFiles": [
     "1. Intoduction.md",
     "Read Me.md",
