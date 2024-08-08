@@ -11,8 +11,13 @@
             "id": "3323512f05b7f1e2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Digitale Speicherung und Verarbeitung von Informationen.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "458ee9c9c0c50e11",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Digitale Speicherung und Verarbeitung von Informationen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Digitale Speicherung und Verarbeitung von Informationen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Digitale Speicherung und Verarbeitung von Informationen.md"
+              }
             }
           }
         ],
@@ -142,8 +152,8 @@
   "active": "3323512f05b7f1e2",
   "lastOpenFiles": [
     "Digitale Speicherung und Verarbeitung von Informationen.md",
-    "Entwicklung der Programmiersprachen.md",
     "Geschichte der Rechenmaschinen und Computer.md",
+    "Entwicklung der Programmiersprachen.md",
     "Read Me.md",
     "Untitled"
   ]
