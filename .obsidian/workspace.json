@@ -11,12 +11,8 @@
             "id": "3323512f05b7f1e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Intoduction.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "458ee9c9c0c50e11",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Intoduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Intoduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +118,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1. Intoduction.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -147,9 +139,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6718cd72a2c9b52e",
+  "active": "3323512f05b7f1e2",
   "lastOpenFiles": [
-    "1. Intoduction.md",
+    "Digitale Speicherung und Verarbeitung von Informationen.md",
+    "Entwicklung der Programmiersprachen.md",
+    "Geschichte der Rechenmaschinen und Computer.md",
     "Read Me.md",
     "Untitled"
   ]
