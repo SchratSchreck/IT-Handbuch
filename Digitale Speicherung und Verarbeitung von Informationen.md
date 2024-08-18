@@ -22,3 +22,14 @@ Die Qualität eines gespeicherten Pixelbildes wird durch mehrere Aspekte charakt
 > -*subtraktive Farbmischung:* Mischung der Druckfarben Cyan, Magenta, Gelb und Schwarz (CMYK)  
 
 # Digitale Audiodaten
+Töne werden mithilfe von *Sampling* digitalisiert, dabei wird die Amplitude (das Volumen) in bestimmten Zeitabständen abgetastet. Die Frequenz (Tonhöhe) ergibt sich aus der zeitlichen Verteilung der Amplituden. Der Abtastvorgang (Sample) wird dabei als numerischer Wert gespeichert.
+Die digitalisierte Tonabfolge ist dann durch das gleichbleibende Intervall der Messungen auf der x-Achse *zeitdiskret* und durch die Beschränkung auf einzelne (Mittel-)Werte *wertediskret*.
+Die Qualität und Datenmenge werden durch die folgenden Merkmale beeinflusst:
+- *Sampling-Rate:* Anzahl der Samples pro Sekunde (in kHz); je höher die Rate, desto besser die Tonqulität
+- *Sampling-Tiefe:* Gibt die Datenbreite eines einzelnen gespeicherten Tons an, wie viele Amplituden unterschieden werden; hohe Sampling-Tiefen sorgen für einen bessere Qualität
+- *Tonkanäle:* Gibt an ob eine Raumklang gespeichert wird; bei mono gespeicherten Audiodaten gibt es nur einen Kanal; bei Stereo zwei (rechts, links); bei z.B. Surroundsound gibt es noch mehr Kanäle
+
+# Textdateien
+Reiner Text (nicht formatierter Text in Textverarbeitungsprogrammen) wird als Abfolge nummerierter Zeichen eines *Zeichensatzes* gespeichert. Die Anzahl der verschiedenen Zeichen wird durch die Datenbreite festgelegt.
+Der grundlegende Zeichensatz ist *ASCII*, dieser ist 7 Bit breit, 128 Zeichen, und kann somit alle englischsprachigen Wörter darstellen. Sonderzeichen verschiedener Sprachen werden mit Hilfe von Erweiterungen des ASCII-Codes dargestellt, da ASCII in 8 Bit breiten Feldern gespeichert wird aber nur 7 Bit benötigt, ist Platz für 128 weitere Zeichen.
+Der *Unicode-Standard* wurde eingeführt um verschiedene Zeichensätze in einem zu vereinen. Dieser hat einen Zeichensatz von 16 bis 32 Bit und kann somit mindestens 65.536 verschiedene Zeichen speichern.

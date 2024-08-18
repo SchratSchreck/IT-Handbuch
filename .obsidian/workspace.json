@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c6ffa96fbee14f29",
+        "id": "a0a63feaa340f045",
         "type": "tabs",
         "children": [
           {
-            "id": "3323512f05b7f1e2",
+            "id": "9f5a31bdd027d195",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digitale Speicherung und Verarbeitung von Informationen.md",
+                "file": "Mathematische Grundlagen.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,12 +66,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "458ee9c9c0c50e11",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digitale Speicherung und Verarbeitung von Informationen.md",
+                "file": "Mathematische Grundlagen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digitale Speicherung und Verarbeitung von Informationen.md",
+                "file": "Mathematische Grundlagen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digitale Speicherung und Verarbeitung von Informationen.md"
+                "file": "Mathematische Grundlagen.md"
               }
             }
           }
@@ -149,11 +149,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3323512f05b7f1e2",
+  "active": "9f5a31bdd027d195",
   "lastOpenFiles": [
-    "Digitale Speicherung und Verarbeitung von Informationen.md",
-    "Geschichte der Rechenmaschinen und Computer.md",
+    "Mathematische Grundlagen.md",
     "Entwicklung der Programmiersprachen.md",
+    "Geschichte der Rechenmaschinen und Computer.md",
+    "Digitale Speicherung und Verarbeitung von Informationen.md",
+    "Aufgaben.md",
     "Read Me.md",
     "Untitled"
   ]
